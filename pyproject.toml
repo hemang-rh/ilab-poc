@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "ilab-poc"
+version = "0.1.0"
+description = "InstructLab POC project"
+authors = ["Hemang Shishir <hshishir@redhat.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.12"
+torch = "^2.5.1"
+docling = "^2.15.1"
+click = "^8.1.8"
+rich = "^13.9.4"
+
+[tool.poetry.scripts]
+ilabcli = "ilab_poc.main:cli"
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
