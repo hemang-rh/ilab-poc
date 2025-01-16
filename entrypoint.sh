@@ -3,7 +3,8 @@ set -e
 
 if [ $# -eq 0 ]; then
     echo "Please provide a command. Available commands:"
-    echo "  hello NAME [--count NUMBER]  - Say hello to someone"
+    echo "  convertdoc FILEPATH"
+    echo "  convertdocs --INPUTDIR --OUTPUTDIR"
     echo ""
     echo "Global options:"
     echo "  --log-level [DEBUG|INFO|WARNING|ERROR]"
