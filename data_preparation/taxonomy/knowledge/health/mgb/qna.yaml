@@ -2,105 +2,101 @@ version: 3
 domain: Mass General Brigham Policy Interactions
 created_by: hemang-rh
 seed_examples:
-- context: |
-    The document outlines the purpose and scope of the Mass General Brigham (MGB) Policy for Interactions with Industry.
-    It addresses conflicts of interest, disclosure requirements, and collaborative activities, ensuring professional
-    integrity and compliance with institutional and legal standards.
-  questions_and_answers:
-    - question: |
-        What responsibilities do MGB Individuals have under this policy?
-      answer: |
-        They must comply with all policy provisions, disclose financial interests and activities, and ensure impartial
-        decision-making in their roles.
-    - question: |
-        What are the key requirements for reporting financial interests?
-      answer: |
-        Financial interests must be disclosed annually, upon submission of research protocols, or within 30 days of
-        acquiring a new interest, particularly for federally funded research.
-    - question: |
-        How does the policy ensure transparency in human subject research?
-      answer: |
-        Researchers must disclose material financial interests to participants, including in consent forms reviewed
-        by the IRB, ensuring clarity and accountability.
-
-- context: |
-    The policy establishes detailed management protocols for financial conflicts of interest in research and clinical
-    settings, overseen by designated committees and offices such as COA and ERB.
-  questions_and_answers:
-    - question: |
-        What is the role of the COA in managing conflicts of interest?
-      answer: |
-        The COA evaluates, manages, and resolves conflicts of interest, develops management plans, and enforces
-        policy compliance.
-    - question: |
-        How are conflicts managed in clinical settings?
-      answer: |
-        Options include disclosure to patients, corroboration of prescriptions, monitoring practice patterns,
-        reducing conflicts, or transferring care.
-    - question: |
-        What are the consequences of non-compliance with conflict of interest policies?
-      answer: |
-        Violations may lead to disciplinary actions, including termination of research funding or employment,
-        as governed by institutional procedures.
-
-- context: |
-    The policy provides specific guidelines for industry-supported educational activities, ensuring unbiased content
-    and transparency in funding and participation.
-  questions_and_answers:
-    - question: |
-        Are single-source funding arrangements allowed for educational activities?
-      answer: |
-        No, funding must come from multiple sources, with no one entity contributing more than 70% of total
-        commercial support, unless an exception is granted.
-    - question: |
-        How must agreements for industry-supported activities be documented?
-      answer: |
-        Agreements must be in writing, approved by the ERB, and signed before funds are used or events begin.
-    - question: |
-        What restrictions exist for naming industry-supported activities?
-      answer: |
-        Activities cannot be named after the supporting industry entity, nor can specific training positions be
-        designated as industry-supported.
-
-- context: |
-    The policy outlines permitted and prohibited consulting and other outside activities for MGB Individuals,
-    focusing on maintaining institutional integrity and avoiding conflicts.
-  questions_and_answers:
-    - question: |
-        What are time limitations for outside activities?
-      answer: |
-        The policy limits the time spent on outside activities to ensure sufficient commitment to MGB responsibilities,
-        subject to supervisor approval.
-    - question: |
-        What is required for compensation from outside activities?
-      answer: |
-        Compensation must be fair market value and disclosed to the COA or relevant authority, ensuring it does
-        not influence MGB duties.
-    - question: |
-        How does the policy handle use of the MGB name in outside activities?
-      answer: |
-        Using the MGB name requires explicit written approval, ensuring it is not associated with external
-        endorsements or unauthorized activities.
-
-- context: |
-    Institutional conflicts of interest are addressed in the policy, covering financial interests in purchasing decisions,
-    research funding, and royalties, with oversight mechanisms.
-  questions_and_answers:
-    - question: |
-        How are royalties from licensed technologies managed?
-      answer: |
-        Royalties must not influence clinical decisions, with exceptions requiring COA approval and contributions
-        directed to non-MGB charities.
-    - question: |
-        What is required for accepting major gifts related to research?
-      answer: |
-        Major gifts must undergo review to ensure they do not compromise research integrity or introduce
-        conflicts of interest, as managed by COA.
-    - question: |
-        What oversight exists for supervisors with financial conflicts?
-      answer: |
-        Supervisors with conflicts must disclose them, refrain from decision-making in related areas, and comply
-        with management plans to mitigate risks.
+  - context: |
+      The document outlines the purpose and scope of the Mass General Brigham (MGB) Policy for Interactions with Industry.
+      It addresses conflicts of interest, disclosure requirements, and collaborative activities, ensuring professional
+      integrity and compliance with institutional and legal standards.
+    questions_and_answers:
+      - question: |
+          What responsibilities do MGB Individuals have under this policy?
+        answer: |
+          They must comply with all policy provisions, disclose financial interests and activities, and ensure impartial
+          decision-making in their roles.
+      - question: |
+          What are the key requirements for reporting financial interests?
+        answer: |
+          Financial interests must be disclosed annually, upon submission of research protocols, or within 30 days of
+          acquiring a new interest, particularly for federally funded research.
+      - question: |
+          How does the policy ensure transparency in human subject research?
+        answer: |
+          Researchers must disclose material financial interests to participants, including in consent forms reviewed
+          by the IRB, ensuring clarity and accountability.
+  - context: |
+      The policy establishes detailed management protocols for financial conflicts of interest in research and clinical
+      settings, overseen by designated committees and offices such as COA and ERB.
+    questions_and_answers:
+      - question: |
+          What is the role of the COA in managing conflicts of interest?
+        answer: |
+          The COA evaluates, manages, and resolves conflicts of interest, develops management plans, and enforces
+          policy compliance.
+      - question: |
+          How are conflicts managed in clinical settings?
+        answer: |
+          Options include disclosure to patients, corroboration of prescriptions, monitoring practice patterns,
+          reducing conflicts, or transferring care.
+      - question: |
+          What are the consequences of non-compliance with conflict of interest policies?
+        answer: |
+          Violations may lead to disciplinary actions, including termination of research funding or employment,
+          as governed by institutional procedures.
+  - context: |
+      The policy provides specific guidelines for industry-supported educational activities, ensuring unbiased content
+      and transparency in funding and participation.
+    questions_and_answers:
+      - question: |
+          Are single-source funding arrangements allowed for educational activities?
+        answer: |
+          No, funding must come from multiple sources, with no one entity contributing more than 70% of total
+          commercial support, unless an exception is granted.
+      - question: |
+          How must agreements for industry-supported activities be documented?
+        answer: |
+          Agreements must be in writing, approved by the ERB, and signed before funds are used or events begin.
+      - question: |
+          What restrictions exist for naming industry-supported activities?
+        answer: |
+          Activities cannot be named after the supporting industry entity, nor can specific training positions be
+          designated as industry-supported.
+  - context: |
+      The policy outlines permitted and prohibited consulting and other outside activities for MGB Individuals,
+      focusing on maintaining institutional integrity and avoiding conflicts.
+    questions_and_answers:
+      - question: |
+          What are time limitations for outside activities?
+        answer: |
+          The policy limits the time spent on outside activities to ensure sufficient commitment to MGB responsibilities,
+          subject to supervisor approval.
+      - question: |
+          What is required for compensation from outside activities?
+        answer: |
+          Compensation must be fair market value and disclosed to the COA or relevant authority, ensuring it does
+          not influence MGB duties.
+      - question: |
+          How does the policy handle use of the MGB name in outside activities?
+        answer: |
+          Using the MGB name requires explicit written approval, ensuring it is not associated with external
+          endorsements or unauthorized activities.
+  - context: |
+      Institutional conflicts of interest are addressed in the policy, covering financial interests in purchasing decisions,
+      research funding, and royalties, with oversight mechanisms.
+    questions_and_answers:
+      - question: |
+          How are royalties from licensed technologies managed?
+        answer: |
+          Royalties must not influence clinical decisions, with exceptions requiring COA approval and contributions
+          directed to non-MGB charities.
+      - question: |
+          What is required for accepting major gifts related to research?
+        answer: |
+          Major gifts must undergo review to ensure they do not compromise research integrity or introduce
+          conflicts of interest, as managed by COA.
+      - question: |
+          What oversight exists for supervisors with financial conflicts?
+        answer: |
+          Supervisors with conflicts must disclose them, refrain from decision-making in related areas, and comply
+          with management plans to mitigate risks.
 
 document_outline: |
   The document outlines the purpose and scope of the Mass General Brigham (MGB) Policy for Interactions with Industry.
