@@ -8,16 +8,6 @@ seed_examples:
     integrity and compliance with institutional and legal standards.
   questions_and_answers:
     - question: |
-        What is the main goal of the MGB policy?
-      answer: |
-        The policy aims to uphold integrity in MGB activities, foster beneficial collaborations with industry, and
-        ensure transparency in managing conflicts of interest.
-    - question: |
-        How does the policy define a conflict of interest?
-      answer: |
-        A conflict of interest arises when secondary interests risk unduly influencing professional judgment or actions
-        regarding primary institutional responsibilities.
-    - question: |
         What responsibilities do MGB Individuals have under this policy?
       answer: |
         They must comply with all policy provisions, disclose financial interests and activities, and ensure impartial
@@ -48,16 +38,6 @@ seed_examples:
         Options include disclosure to patients, corroboration of prescriptions, monitoring practice patterns,
         reducing conflicts, or transferring care.
     - question: |
-        What is required for managing conflicts in sponsored research?
-      answer: |
-        Researchers must eliminate or disclose significant financial interests above de minimis thresholds, with
-        oversight provided by COA or IRB.
-    - question: |
-        What additional disclosures are required for federally funded research?
-      answer: |
-        Financial conflicts must be reported to the funding agency, with management plans in place before
-        expenditure of funds.
-    - question: |
         What are the consequences of non-compliance with conflict of interest policies?
       answer: |
         Violations may lead to disciplinary actions, including termination of research funding or employment,
@@ -67,16 +47,6 @@ seed_examples:
     The policy provides specific guidelines for industry-supported educational activities, ensuring unbiased content
     and transparency in funding and participation.
   questions_and_answers:
-    - question: |
-        What are the standards for industry support of MGB educational activities?
-      answer: |
-        Activities must comply with accreditation standards, prohibit industry control over content, and disclose
-        funding sources to participants.
-    - question: |
-        How does the ERB oversee industry-supported education?
-      answer: |
-        The ERB reviews and approves educational support, ensuring compliance with policy, managing financial
-        interests, and approving budgets.
     - question: |
         Are single-source funding arrangements allowed for educational activities?
       answer: |
@@ -97,16 +67,6 @@ seed_examples:
     focusing on maintaining institutional integrity and avoiding conflicts.
   questions_and_answers:
     - question: |
-        What activities are prohibited under the policy?
-      answer: |
-        Prohibited activities include serving in fiduciary roles to companies involved in clinical research or holding
-        equity interests above de minimis thresholds.
-    - question: |
-        How does the policy regulate outside activities?
-      answer: |
-        Outside activities must not interfere with MGB responsibilities, misuse resources, or create conflicts of
-        interest, requiring disclosure and approval where necessary.
-    - question: |
         What are time limitations for outside activities?
       answer: |
         The policy limits the time spent on outside activities to ensure sufficient commitment to MGB responsibilities,
@@ -126,16 +86,6 @@ seed_examples:
     Institutional conflicts of interest are addressed in the policy, covering financial interests in purchasing decisions,
     research funding, and royalties, with oversight mechanisms.
   questions_and_answers:
-    - question: |
-        How does the policy define institutional conflicts of interest?
-      answer: |
-        Institutional conflicts occur when financial interests of MGB or its officials have the potential to affect
-        purchasing decisions, research integrity, or patient care.
-    - question: |
-        What are the requirements for institutional purchasing transactions?
-      answer: |
-        Interested individuals must recuse themselves, and procedures for transparency and fairness must be
-        followed, as outlined by COA.
     - question: |
         How are royalties from licensed technologies managed?
       answer: |
