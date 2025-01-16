@@ -158,6 +158,6 @@ document_outline: |
   integrity and compliance with institutional and legal standards.
 document:
   repo: https://github.com/hemang-rh/ilab-poc.git
-  commit:
+  commit: 4223f683e4c5727fcac9061ecec1cf14ecc954c9
   patterns:
     - 'data_preparation/converted_documents/mgb/mgb-policy-interactions-industry.md'
